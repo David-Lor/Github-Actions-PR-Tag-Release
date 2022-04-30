@@ -11,6 +11,7 @@ on:
       - closed
     branches:
       - main
+      - test/tag
 
 jobs:
   tag-on-pr-merge:
